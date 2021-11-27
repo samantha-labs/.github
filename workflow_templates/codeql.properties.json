@@ -1,0 +1,8 @@
+{
+	"name": "CodeQL Workflow",
+	"description": "Runs CodeQL queries on a Node.js repository",
+	"iconName": "workflow",
+	"categories": [
+		"CodeQL"
+	]
+}

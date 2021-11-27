@@ -1,0 +1,8 @@
+{
+	"name": "Node.js Workflow",
+	"description": "Builds, lints, and tests a Node.js & TypeScript project",
+	"iconName": "workflow",
+	"categories": [
+		"JavaScript"
+	]
+}
